@@ -9,6 +9,7 @@ You can also drill down to view more detailed metrics, or seamlessly switch to v
 Initially, the *Inventory* tab shows an overview of the hosts in of your infrastructure and the current CPU usage for each host.
 From here, you can view other metrics or drill down into areas of interest.
 
+#Update these images throughout the documentation. This issue is visible on multiple pages.
 [role="screenshot"]
 image::infrastructure/images/infra-sysmon.png[Infrastructure Overview in Kibana]
 
